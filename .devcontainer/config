@@ -1,9 +1,9 @@
 # SnowSQL config
 
 [connections.dev]
-accountname = myaccount
-username = myusername
-password = mypassword
+accountname = wwxhpkp.mv31120
+username = snowflake2402
+password = Silverflake2402
 rolename = HOL_ROLE
 warehousename = HOL_WH
 dbname = HOL_DB
